@@ -6,6 +6,7 @@
 }
 
 .nav-buttom{
+    position: fixed;
     border: 0;
     border-radius: 30%;
     padding: 20px;
